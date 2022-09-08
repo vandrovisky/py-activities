@@ -50,5 +50,5 @@ def cnpj_validate(cnpj):
         confirm(code_validate,cnpj_number)
 
 if __name__ == "__main__":
-    cnpj = "04.252.011/0001-10"
+    cnpj = "05.487.918/0001-20"
     cnpj_validate(cnpj)
